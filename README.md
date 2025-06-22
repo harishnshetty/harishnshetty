@@ -51,11 +51,7 @@
 
 ---
 
-### 📄 Resume
 
-📌 [Download Resume (PDF)](./resume.pdf)
-
----
 
 <p align="center">
   <b>© 2025 Harish N Shetty</b>  
