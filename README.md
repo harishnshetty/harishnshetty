@@ -1,4 +1,11 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
+
+<h1 align="center">Hi 👋, I'm Harish N Shetty</h1>
+<h3 align="center">🚀 A DevOps Engineer & Cloud Enthusiast from 🇮🇳 India 🔧 Passionate about automation, infrastructure as code, cloud-native technologies, and continuous delivery pipelines.</h3>
 
 ---
 
@@ -6,17 +13,8 @@
 
 - 🧰 6+ years in IT infrastructure & system administration  
 - 🧪 Transitioned into DevOps with hands-on in CI/CD, Docker, Kubernetes, Ansible, Terraform, Jenkins and AWS  
-- 🌐 Built multiple personal DevOps tools and hosted a public [Script Generator](https://harishnshetty.github.io/projects)  
+- 🌐 Built multiple personal DevOps tools and hosted a public [ DevSecops k8s Projects ](https://harishnshetty.github.io/projects)  
 - 🎯 Currently exploring DevSecOps, Argo CD, and Microservices
-
----
-
-
-
-
----
-<h1 align="center">Hi 👋, I'm Harish N Shetty</h1>
-<h3 align="center">🚀 A DevOps Engineer & Cloud Enthusiast from 🇮🇳 India 🔧 Passionate about automation, infrastructure as code, cloud-native technologies, and continuous delivery pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
 
@@ -32,7 +30,10 @@
 
 - 📫 How to reach me **harishn662@gmail.com**
 
-### Blogs posts
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
+
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -49,8 +50,6 @@
 <h3 align="left"> 💼 Skills & Tools</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
 
 <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake.svg" alt="Snake animation" />
 
