@@ -119,6 +119,11 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
+<a href="https://paypal.me/harishnshetty?locale.x=en_GB&country.x=IN" target="_blank">
+  <img align="left" src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png" 
+       height="50" width="210" alt="Donate via PayPal" />
+</a>
+<br><br>
 
 
 <div align="center">
