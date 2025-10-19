@@ -57,8 +57,8 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
   <img src="https://skillicons.dev/icons?i=vscode,git,github,slack" />
 
 
-  <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/argocd.svg" alt="ArgoCD" width="40"/>
-  <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/trivy.svg" alt="Trivy" width="40"/>
+  <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/argocd.svg" alt="ArgoCD" width="100"/>
+  <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/trivy.svg" alt="Trivy" width="80"/>
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/dockerscout.svg" alt="Docker Scout" width="40"/>
 </p>
 
