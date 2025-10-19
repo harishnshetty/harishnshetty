@@ -125,6 +125,12 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </a>
 <br><br>
 
+<a href="upi://pay?pa=harishn662@ybl&pn=Harish%20Shetty" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PhonePe_Logo.svg"
+       alt="PhonePe UPI" height="50" width="210" />
+</a>
+<br><br>
+
 
 <div align="center">
   <picture>
