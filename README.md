@@ -15,6 +15,8 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
   <img src="https://visitor-badge.glitch.me/badge?page_id=harishnshetty.harishnshetty&left_text=Profile%20Views" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
+
 ### 🧠 **About Me**
 
 * 🧰 **7+ years of experience** in IT Infrastructure and System Administration
@@ -100,7 +102,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <p align="center">
   <a href="https://linkedin.com/in/harishnshetty"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://harishnshetty.github.io/projects"><img src="https://img.shields.io/badge/🌐_Portfolio-DevSecOps-blueviolet?style=flat-square" /></a>
-  <a href="https://youtube.com/@harishnshetty"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@devopsharishnshetty"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
   <a href="mailto:harishnshetty@gmail.com"><img src="https://img.shields.io/badge/Email-harishnshetty%40gmail.com-orange?logo=gmail" /></a>
 </p>
 
