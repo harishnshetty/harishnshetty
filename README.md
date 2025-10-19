@@ -9,9 +9,11 @@ Kubernetes | Docker | Jenkins | GitHub Actions | GitLab Runner | GitOps | ArgoCD
 AWS Cloud | ELK Stack | Prometheus | Grafana | Trivy | Harbor | Docker Scout | OWASP ZAP | SonarQube | 
 Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </h3>
-- 🌐 Built multiple personal DevOps tools and hosted a public [ DevSecops k8s Projects ](https://harishnshetty.github.io/projects)  
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
+- 🌐 Built multiple personal DevOps tools and hosted a public [ DevSecops k8s Projects ](https://harishnshetty.github.io/projects)  
+
+
 
 ### 🧠 **About Me**
 
