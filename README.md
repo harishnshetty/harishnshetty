@@ -81,6 +81,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishnshetty&show_icons=true&locale=en" alt="harishnshetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishnshetty&" alt="harishnshetty" /></p>
+
 ---
 
 ### 🏆 **GitHub Trophies**
@@ -104,7 +105,8 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 ⭐ *"Automate Everything. Secure Everything. Deliver Faster."*
 
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
 
 
 
@@ -161,8 +163,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 - 📫 How to reach me **harishn662@gmail.com**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
+
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
