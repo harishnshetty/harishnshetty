@@ -58,11 +58,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 <!-- Unsupported tools using badges -->
 <br/>
-<img src="https://img.shields.io/badge/ArgoCD-0E1111?style=for-the-badge&logo=argo" />
-<img src="https://img.shields.io/badge/Trivy-172B4D?style=for-the-badge&logo=trivy" />
-<img src="https://img.shields.io/badge/Docker_Scout-2496ED?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/OWASP_ZAP-FF9900?style=for-the-badge&logo=owasp" />
-
+<img src="img=argocd,trivy,dockerscout" />
 </p>
 
 ---
