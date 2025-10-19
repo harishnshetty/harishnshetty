@@ -52,7 +52,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 ### 🧰 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,linux,bash,python,nginx,helm,prometheus,grafana,elasticsearch,mysql,html,css,javascript" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,linux,bash,python,nginx,prometheus,grafana,elasticsearch," /><br/>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,slack" />
 </p>
 
@@ -107,6 +107,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
+
 
 
 
