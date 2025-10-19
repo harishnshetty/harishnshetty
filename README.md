@@ -109,6 +109,16 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <p><a href="https://www.buymeacoffee.com/harishnshetty"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harishnshetty" /></a><a href="https://ko-fi.com/harishnshetty"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harishnshetty" /></a></p><br><br>
 
 
+<div align="center">
+  <picture>
+    <!-- dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake-dark.svg" />
+    <!-- light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake.svg" />
+    <!-- fallback -->
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
 
