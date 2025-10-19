@@ -3,15 +3,12 @@
 </div>
 
 <!-- Profile Header -->
-<h3 align="center">
+<h3 align="center"> 
 🚀 DevOps Enthusiast | DevSecOps | Cloud | Automation | Infrastructure as Code (IaC) | Terraform | Ansible | 
 Kubernetes | Docker | Jenkins | GitHub Actions | GitLab Runner | GitOps | ArgoCD | 
 AWS Cloud | ELK Stack | Prometheus | Grafana | Trivy | Harbor | Docker Scout | OWASP ZAP | SonarQube | 
 Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </h3>
-
-
-Perfect — that’s already strong and professional. Here’s an **improved and polished version** that reads smoothly, enhances flow and impact, and adds a bit of personality while keeping it professional 👇
 
 ---
 
@@ -76,18 +73,6 @@ Perfect — that’s already strong and professional. Here’s an **improved and
   <img src="https://img.shields.io/badge/Email_Notifier-0078D4?logo=gmail&logoColor=white" />
 </p>
 
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishnshetty&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harishnshetty&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishnshetty&layout=compact&theme=radical" />
-</p>
 
 ---
 
