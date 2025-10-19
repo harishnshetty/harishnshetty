@@ -9,7 +9,7 @@ Kubernetes | Docker | Jenkins | GitHub Actions | GitLab Runner | GitOps | ArgoCD
 AWS Cloud | ELK Stack | Prometheus | Grafana | Trivy | Harbor | Docker Scout | OWASP ZAP | SonarQube | 
 Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </h3>
-
+- 🌐 Built multiple personal DevOps tools and hosted a public [ DevSecops k8s Projects ](https://harishnshetty.github.io/projects)  
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
 
@@ -165,7 +165,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 - 🧰 6+ years in IT infrastructure & system administration  
 - 🧪 Transitioned into DevOps with hands-on in CI/CD, Docker, Kubernetes, Ansible, Terraform, Jenkins and AWS  
-- 🌐 Built multiple personal DevOps tools and hosted a public [ DevSecops k8s Projects ](https://harishnshetty.github.io/projects)  
+
 - 🎯 Currently exploring DevSecOps, Argo CD, and Microservices
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
