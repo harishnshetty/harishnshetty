@@ -11,10 +11,6 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </h3>
 
 ---
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=harishnshetty.harishnshetty&left_text=Profile%20Views" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishnshetty&label=Profile%20views&color=0e75b6&style=flat" alt="harishnshetty" /> </p>
 
 ### 🧠 **About Me**
@@ -59,6 +55,9 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,linux,bash,python,nginx,prometheus,grafana,elasticsearch," /><br/>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,slack" />
+
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,slack,argocd,trivy,dockerscout,owaspzap,sonarqube,gitlab" />
+
 </p>
 
 ---
