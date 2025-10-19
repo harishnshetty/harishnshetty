@@ -53,9 +53,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 ### 🧰 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,linux,bash,python,nginx,prometheus,grafana,elasticsearch," /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,slack" />
-
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,jenkins,githubactions,gitlab,linux,bash,python,nginx,prometheus,grafana,elasticsearch,vscode,git,github" /><br/>
 
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/argocd.svg" alt="ArgoCD" width="80"/>
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/trivy.svg" alt="Trivy" width="80"/>
