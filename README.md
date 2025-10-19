@@ -191,8 +191,3 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <a href="https://medium.com/@harishnshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harishnshetty" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@devopsharishnshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@devopsharishnshetty" height="30" width="40" /></a>
 </p>
-
-
-<img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake.svg" alt="Snake animation" />
-
- -->
