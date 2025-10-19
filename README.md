@@ -11,6 +11,9 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </h3>
 
 ---
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=harishnshetty.harishnshetty&left_text=Profile%20Views" />
+</p>
 
 ### 🧠 **About Me**
 
