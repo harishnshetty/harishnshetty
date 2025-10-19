@@ -1,6 +1,5 @@
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=👋 Hi, I'm <b>Harish N Shetty</b>&desc=Devops+%7C+DevSecOps+%7C+Automation+%7C+Terraform+%7C+Kubernetes+%7C+ELK&fontSize=50&descSize=18&fontColor=FFFFFF&theme=crimson" style="width:100%;" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=👋%20Hi%2C%20I'm%20Harish%20N%20Shetty&desc=DevOps%20%7C%20DevSecOps%20%7C%20Automation%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20ELK&fontSize=42&descSize=18&fontColor=FFFFFF&fontAlignY=35&theme=crimson" style="width:100%;" />
 </div>
 
 <!-- Profile Header -->
