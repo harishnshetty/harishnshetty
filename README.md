@@ -112,14 +112,13 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 <div align="center">
   <picture>
     <!-- dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake-dark.svg" />
     <!-- light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake.svg" />
     <!-- fallback -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake.svg" />
   </picture>
 </div>
-
 
 
 
