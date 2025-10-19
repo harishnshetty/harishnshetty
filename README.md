@@ -1,16 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi%2C+I%27m+Harish+N+Shetty&desc=DevOps+%7C+DevSecOps+%7C+GitOps+%7C+AWS+%7C+CI%2FCD&fontSize=56&descSize=18&fontColor=FFFFFF&theme=cobalt" style="width:100%;" />
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Harish+N+Shetty&desc=DevOps+%7C+Cloud+%7C+DevSecOps&fontSize=48&descSize=16&fontColor=FFFFFF&theme=midnight" style="width:100%;" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Harish+N+Shetty+-+DevOps+Engineer&desc=Automation+%7C+Terraform+%7C+Kubernetes+%7C+ELK&fontSize=50&descSize=18&fontColor=FFFFFF&theme=crimson" style="width:100%;" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=Harish+N+Shetty+%7C+DevOps+%7C+DevSecOps&fontSize=36&descSize=14&fontColor=FFFFFF&theme=cobalt" style="width:100%;" />
 
 
 
@@ -25,6 +19,11 @@
 </p>
 
 ---
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi%2C+I%27m+Harish+N+Shetty&desc=DevOps+%7C+DevSecOps+%7C+GitOps+%7C+AWS+%7C+CI%2FCD&fontSize=56&descSize=18&fontColor=FFFFFF&theme=cobalt" style="width:100%;" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Harish+N+Shetty&desc=DevOps+%7C+Cloud+%7C+DevSecOps&fontSize=48&descSize=16&fontColor=FFFFFF&theme=midnight" style="width:100%;" />
 
 ### 🧠 **About Me**
 
