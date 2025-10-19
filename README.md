@@ -1,5 +1,5 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Harish+N+Shetty+-&desc=Devops+%7C+DevSecOps+%7C+Automation+%7C+Terraform+%7C+Kubernetes+%7C+ELK&fontSize=50&descSize=18&fontColor=FFFFFF&theme=crimson" style="width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=👋 Hi, I'm <b>Harish N Shetty</b>&desc=Devops+%7C+DevSecOps+%7C+Automation+%7C+Terraform+%7C+Kubernetes+%7C+ELK&fontSize=50&descSize=18&fontColor=FFFFFF&theme=crimson" style="width:100%;" />
 
 </div>
 
