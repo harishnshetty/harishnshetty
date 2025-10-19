@@ -60,7 +60,9 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/argocd.svg" alt="ArgoCD" width="80"/>
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/trivy.svg" alt="Trivy" width="80"/>
   <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/dockerscout.svg" alt="Docker Scout" width="40"/>
-    <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/harbor.svg" alt="harbor" width="40"/>
+    <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/harbor.svg" alt="harbor" width="60"/>
+        <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/zap.svg" alt="zap" width="60"/>
+      <img src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/main/img/owasp.svg" alt="owasp" width="60"/>      
 </p>
 
 ---
