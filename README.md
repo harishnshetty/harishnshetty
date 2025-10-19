@@ -3,28 +3,27 @@
 </div>
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <b>Harish N Shetty</b></h1>
-<h3 align="center">🚀 DevOps Enthusiast | DevSecOps | Terraform | ELK Stack | AWS Cloud | GitOps | Jenkins | GitHub Actions | GitLab Runner | Linux | CI/CD | Docker | Scout | Harbor | Trivy | Ansible | OWASP | SonarQube | ZAP | Slack | Email</h3>
+<h3 align="center">
+🚀 DevOps Enthusiast | DevSecOps | Cloud | Automation | Infrastructure as Code (IaC) | Terraform | Ansible | 
+Kubernetes | Docker | Jenkins | GitHub Actions | GitLab Runner | GitOps | ArgoCD | 
+AWS Cloud | ELK Stack | Prometheus | Grafana | Trivy | Harbor | Docker Scout | OWASP ZAP | SonarQube | 
+Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+%7C+Cloud+%26+DevSecOps;💡+Automating+CI%2FCD+Pipelines+and+Infrastructure+as+Code;☁️+Kubernetes%2C+Terraform%2C+AWS%2C+GitOps%2C+ArgoCD;🔐+Security+%26+Observability+Driven+Automation" alt="Typing SVG" />
-</p>
+
+Perfect — that’s already strong and professional. Here’s an **improved and polished version** that reads smoothly, enhances flow and impact, and adds a bit of personality while keeping it professional 👇
 
 ---
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi%2C+I%27m+Harish+N+Shetty&desc=DevOps+%7C+DevSecOps+%7C+GitOps+%7C+AWS+%7C+CI%2FCD&fontSize=56&descSize=18&fontColor=FFFFFF&theme=cobalt" style="width:100%;" />
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Harish+N+Shetty&desc=DevOps+%7C+Cloud+%7C+DevSecOps&fontSize=48&descSize=16&fontColor=FFFFFF&theme=midnight" style="width:100%;" />
-
 ### 🧠 **About Me**
 
-- 🧰 **6+ years** of experience in IT Infrastructure & System Administration  
-- 🚀 Transitioned into **DevOps & Cloud Engineering** with a focus on **Automation, IaC, and Security**  
-- ☁️ Hands-on with **AWS, Kubernetes, Jenkins, Terraform, Docker, Ansible, GitHub Actions, GitLab Runner**  
-- 🛡️ Exploring **DevSecOps, GitOps, ArgoCD, Helm, and Microservices Architecture**  
-- 🌐 Building full-scale **DevSecOps projects** with **real-world AWS and Kubernetes** integrations → [**My Projects**](https://harishnshetty.github.io/projects)  
-- 🎯 Passionate about **automation, scalability, monitoring, and security-first pipelines**  
+* 🧰 **7+ years of experience** in IT Infrastructure and System Administration
+* 🚀 Transitioned into **DevOps & Cloud Engineering**, specializing in **Automation, Infrastructure as Code (IaC), and Security**
+* ☁️ Proficient in **AWS, Kubernetes, Jenkins, Terraform, Docker, Ansible, GitHub Actions, and GitLab Runner**
+* 🛡️ Actively exploring **DevSecOps, GitOps, ArgoCD, Helm, and Microservices Architecture** to build secure, scalable systems
+* 🌐 Designing and deploying **end-to-end DevSecOps pipelines** with real-world integrations on **AWS and Kubernetes** → [**My Projects**](https://harishnshetty.github.io/projects)
+* 🎯 Driven by a passion for **automation, observability, scalability, and security-first CI/CD pipelines**
+
 
 ---
 
