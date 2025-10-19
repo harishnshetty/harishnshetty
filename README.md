@@ -125,7 +125,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 </a>
 <br><br>
 
-<a href="upi://pay?pa=harishn662@ybl&pn=Harish%20Shetty" target="_blank">
+<!-- <a href="upi://pay?pa=harishn662@ybl&pn=Harish%20Shetty" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PhonePe_Logo.svg"
        alt="PhonePe UPI" height="50" width="210" />
 </a>
@@ -141,7 +141,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
     <!-- fallback -->
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harishnshetty/harishnshetty/output/snake.svg" />
   </picture>
-</div>
+</div> -->
 
 
 
