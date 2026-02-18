@@ -27,7 +27,12 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harishnshetty/image-data-project/9d7a727f60cafc9e4bfe5934cac09a8271bbf871/image1.jpg" width="600">
+</p>
 
+## 🚀 Honored to Receive 🥇 ELITE PROJECT (Gold) Recognition! in the Live Project Review Session on [Youtube Click to Watch](https://youtu.be/-LsCRd51cTA?t=3370)
+---
 ### 🚀 **Highlighted Projects**
 
 #### 🧩 DevSecOps & GitOps
