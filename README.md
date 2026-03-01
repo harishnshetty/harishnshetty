@@ -18,7 +18,7 @@ Linux | Bash | CI/CD | Monitoring | Alerting | Slack | Email Notifications
 
 ### 🧠 **About Me**
 
-* 🧰 **7+ years of experience** in IT Infrastructure and System Administration
+* 🧰 **6+ years of experience** in IT Infrastructure and System Administration
 * 🚀 Transitioned into **DevOps & Cloud Engineering**, specializing in **Automation, Infrastructure as Code (IaC), and Security**
 * ☁️ Proficient in **AWS, Kubernetes, Jenkins, Terraform, Docker, Ansible, GitHub Actions, and GitLab Runner**
 * 🛡️ Actively exploring **DevSecOps, GitOps, ArgoCD, Helm, and Microservices Architecture** to build secure, scalable systems
